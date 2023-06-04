@@ -1,0 +1,14 @@
+{
+  "id": "vikpov/implicit-siren",
+  "title": "implicit-siren",
+  "code_file": "siren.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": ["vikpov/implicit-repr-xyz"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
