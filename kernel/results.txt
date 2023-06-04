@@ -1,0 +1,13 @@
+transformed coords
+batch_size = 500
+
+Surface points F1: 0.22848173519167
+Volume points F1: 0.0031566731141199227
+
+------------------------
+
+original coords
+batch_size = 500
+
+Surface points F1: 0.3548534851987208
+Volume points F1: 0.8268700533100162
